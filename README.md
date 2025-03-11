@@ -1,1 +1,1 @@
-# Development of HIgher Order Finite Element
+# Development of Higher Order Finite Element
